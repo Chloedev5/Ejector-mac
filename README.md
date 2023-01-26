@@ -6,7 +6,7 @@ Machine disk automatically after a backup completes.
 
 ## Downloads and documentation
 
-https://github.com/clundie/Ejector/releases
+https://github.com/Chloedev5/Ejector-mac/releases/
 
 
 ## License
